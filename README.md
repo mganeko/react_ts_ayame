@@ -38,7 +38,7 @@ URLを次の形式で指定することで、シグナリングキーとルー�
 - $ cd react_ts_ayame
 - $ npm install 
 - $ npm start
-- http:localhost:3000 にブラウザでアクセス
+- http://localhost:3000 にブラウザでアクセス
 - その後は GitHub Pages の例と同様 
 
 ## 自分のサーバーで実行
