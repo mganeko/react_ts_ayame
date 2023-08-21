@@ -8,7 +8,7 @@ import { MouseEvent } from 'react';
 import './index.css';
 
 // ------ params -----
-const signalingUrl = 'wss://ayame-labo.shiguredo.jp/signaling';
+const signalingUrl = 'wss://ayame-labo.shiguredo.app/signaling';
 let signalingKey = '';
 const keyFromUrl = getKeyFromUrl();
 if (keyFromUrl && (keyFromUrl !== '')) {
